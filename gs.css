@@ -51,24 +51,24 @@ tr:nth-child(even){
     text-shadow: 3px 3px burlywood;
 }
 
-u1.navbar-horizontal {
+ul.navbar-horizontal {
     /*remove these*/
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-u1.navbar-horizontal li{
+ul.navbar-horizontal li{
     float: left;
     /*line up horizontal*/
     color: #000;
     background-color: rgb(43,198, 226);
 }
-u1.navbar-horizontal a{
+ul.navbar-horizontal a{
     display: block;
     padding: 8px;
 }
 /*on hover change the line color*/
-u1.navbar-horozontal a:hover{
+ul.navbar-horozontal a:hover{
     background-color: #555;
     color: white;
 }
